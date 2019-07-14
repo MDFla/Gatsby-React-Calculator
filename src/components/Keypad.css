@@ -1,0 +1,15 @@
+.button {
+    display: block;
+    background-color: blueviolet;
+}
+
+button {
+    width: 25%;
+    height: 60px;
+    font-size: 30px;
+}
+
+.result p {
+    font-size: 40px;
+    margin: 5px;
+}
